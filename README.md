@@ -1,0 +1,2 @@
+# hurtsec-ghost
+HurtSec Website
